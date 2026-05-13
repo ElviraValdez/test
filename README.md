@@ -1,2 +1,2 @@
-este es mi proyecto 
-Eta clase esta muuuy facil xD 
+#REUTILIZACION_L2
+Proyecto de reutilizacion componentes java swing
